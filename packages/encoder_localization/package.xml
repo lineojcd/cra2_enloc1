@@ -1,0 +1,11 @@
+<package>
+  <name>encoder_localization</name>
+  <version>0.1.0</version>
+  <description>
+  This package is used to do stuffs for the exercise CRA2  encoder_localization .
+  </description>
+  <maintainer email="xisong@student.ethz.ch">Xiao'ao Song</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
